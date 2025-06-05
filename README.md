@@ -25,11 +25,11 @@
       <p>Conheça as histórias dos agricultores e agricultoras que fazem a diferença na nossa comunidade.</p>
       <article>
         <h3>Dona Antônia, a guardiã da terra</h3>
-        <p>“Meu pai dizia que quem planta esperança colhe fartura... E foi com essa frase que cresci, entre o cheiro da terra molhada e o canto dos galos ao amanhecer. Me chamo Ana, filha de agricultores do interior de Minas Gerais. Nossa vida sempre foi simples: acordar cedo, cuidar da horta, alimentar os animais e agradecer pelo que tínhamos. Mas quando a seca chegou, levou com ela o que restava da colheita... e quase levou nossa esperança também.
+        <p>“Meu pai dizia que quem planta esperança colhe fartura... E foi com essa frase que cresci, entre o cheiro da terra molhada e o canto dos galos ao amanhecer. Me chamo Antônia, filha de agricultores do interior de Minas Gerais. Nossa vida sempre foi simples: acordar cedo, cuidar da horta, alimentar os animais e agradecer pelo que tínhamos. Mas quando a seca chegou, levou com ela o que restava da colheita... e quase levou nossa esperança também.
 
-          Meu pai já não tinha forças pra recomeçar, e minha mãe, mesmo com o coração firme, chorava escondido atrás do fogão a lenha. Foi aí que decidi ir à cidade, pela primeira vez sozinha, com um nó na garganta e uma mochila nas costas.
+          Meu pai já não tinha forças pra recomeçar, e minha mãe, mesmo tentando ser firme, chorava atrás do fogão a lenha. Foi aí que decidi ir à cidade, pela primeira vez sozinha, com um nó na garganta e uma mochila nas costas.
           
-          Na cidade, tudo era novo, rápido e barulhento. Ninguém sabia meu nome, ninguém entendia meu jeito de falar. Mas eu precisava de ajuda — não pra mim, mas pra salvar a pequena terra que meus pais chamavam de vida.
+          Na cidade, tudo era novo, rápido e barulhento. Ninguém sabia meu nome, ninguém entendia meu jeito de falar. Mas eu precisava de ajuda, não pra mim, mas pra salvar a pequena terra que meus pais chamavam de vida.
           
           Bati em muitas portas: prefeitura, cooperativa, até banco. Ouvi muitos “não” antes de alguém me olhar nos olhos e dizer “vamos tentar”. Um engenheiro agrônomo se interessou pela nossa história e levou até lá um projeto de irrigação sustentável. Em poucos meses, com muito trabalho e a ajuda certa, nossa terra voltou a sorrir em verde.
           
@@ -42,9 +42,9 @@
 
     <section id="receitas">
       <h2>🍽️ Receitas da Terra</h2>
-      <p>Sabores que atravessam gerações. Aprenda receitas típicas do campo.</p>
+      <p>Sabores do campo que atravessam gerações. Aprenda receitas típicas do campo.</p>
       <article>
-        <h3>Pamonha da Vó Lourdes</h3>
+        <h3>Pamonha da Vovó </h3>
         <p>Ingredientes:
 
 6 espigas de milho verde
@@ -78,9 +78,9 @@ Cozinhe em água fervente por cerca de 40 minutos.
 
     <section id="cartas">
       <h2>✉️ Cartas entre Mundos</h2>
-      <p>Troca de cartas entre crianças do campo e da cidade. Um diálogo poético e curioso.</p>
+      <p>Troca de cartas entre crianças do campo e da cidade, cartas profundas que mostram o ponto de vista de duas realidades.</p>
       <article>
-        <h3>“Querido amigo da cidade...”</h3>
+        <h3>Querido amigo da cidade...</h3>
         <p>Eu nunca vi um prédio alto, mas sei subir em jabuticabeira 
           Eu nunca andei de elevador, mas já corri atrás de galinha no terreiro.
           
@@ -97,15 +97,35 @@ Cozinhe em água fervente por cerca de 40 minutos.
           Escreve pra mim contando como é seu mundo cheio de luzes e buzinas.
           Enquanto isso, vou te escrever sentada no tronco da mangueira, ouvindo os grilos falarem segredos.
           
+          
           Com carinho,
-          Maria do Campo</p>
+          Maria do Campo
+          
+         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+          
+          Querido amigo do campo…
+
+Aqui tudo é tão diferente. Eu nunca vi um animal de perto que não fosse um cachorro ou um gato. Mas, ah, como eu adoro ver as fotos dos bois e das vacas que você me manda! A cada imagem, fico pensando como deve ser grande o céu aí, sem aquelas paredes que nos cercam por todos os lados.
+
+Eu nunca andei descalço na terra fria da manhã, mas sinto a brisa gelada no rosto enquanto espero o ônibus, na esquina movimentada da cidade. Às vezes, tento ouvir o canto dos passarinhos, mas o som dos carros parece não deixar. Deve ser bem diferente aí, com o canto do sabiá como trilha sonora, né?
+
+Aqui a gente vive a pressa, sempre correndo de um lado para o outro, olhando para o relógio. Sinto que o tempo aqui voa, enquanto vocês têm a calma da tarde que nunca apressa. Eu não sei o que é esperar pela chuva com tanta ansiedade, mas vejo a água acumulando no céu e fico pensando como seria sentir essa espera na pele.
+
+Já vi as luzes da cidade acenderem ao anoitecer, e me pergunto se a sua noite é tão escura e cheia de estrelas quanto você diz. Já me disseram que você vê a lua mais perto, mas eu nunca pude parar para olhar com a calma de quem não tem mais nada para fazer. Eu só olho para o alto quando as luzes se apagam, mas logo volto para a rotina.
+
+Eu sei o gosto do café de manhã, tão quente, servido na pressa do dia, mas nunca experimentei o café fresquinho que você fala, feito na hora. Como será esse sabor?
+
+Escreve para mim, me conta da sua vida simples, do tempo que anda mais devagar e dos seus dias tranquilos, sem buzinas, sem pressa. Eu, aqui, continuo correndo, mas guardando um pouco de saudade no peito de algo que nunca experimentei, mas que vejo, em você, todos os dias.
+
+Com carinho,
+Lucas da cidade...</p>
       </article>
     </section>
 
     <section id="galeria">
       <h2>🖼️ Galeria de Saberes</h2>
-      <p>Desenhos, colagens e mapas afetivos feitos pelos alunos.</p>
-      <img src="imagens/mapa-afetivo.jpg" alt="Mapa afetivo desenhado por aluno" />
+      <p>Desenhos variados e colagens feitos por telespectadores de nosso site.</p>
+      <img src=" " alt="Mapa afetivo desenhado por aluno" />
     </section>
 
     

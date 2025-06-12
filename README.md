@@ -25,7 +25,7 @@
       <p>Conheça as histórias dos agricultores e agricultoras que fazem a diferença na nossa comunidade.</p>
       <article>
         <h3>Dona Antônia, a guardiã da terra</h3>
-        <p>“Meu pai dizia que quem planta esperança colhe fartura... E foi com essa frase que cresci, entre o cheiro da terra molhada e o canto dos galos ao amanhecer. Me chamo Antônia, filha de agricultores do interior de Minas Gerais. Nossa vida sempre foi simples: acordar cedo, cuidar da horta, alimentar os animais e agradecer pelo que tínhamos. Mas quando a seca chegou, levou com ela o que restava da colheita... e quase levou nossa esperança também.
+        <p>“Meu pai dizia que quem planta esperança colhe fartura... E foi com essa frase que cresci, entre o cheiro da terra molhada e o canto dos galos ao amanhecer. Me chamo Antônia, filha de agricultores do interior do Paraná. Nossa vida sempre foi simples: acordar cedo, cuidar da horta, alimentar os animais e agradecer pelo que tínhamos. Mas quando a seca chegou, levou com ela o que restava da colheita... e quase levou nossa esperança também.
 
           Meu pai já não tinha forças pra recomeçar, e minha mãe, mesmo tentando ser firme, chorava atrás do fogão a lenha. Foi aí que decidi ir à cidade, pela primeira vez sozinha, com um nó na garganta e uma mochila nas costas.
           
